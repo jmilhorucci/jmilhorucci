@@ -4,7 +4,7 @@
 
 ![Juliano Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmilhorucci&hide=html&layout=compact&show_icons=true&theme=tokyonight)
 
-Atualmente, estou no 3º ano da Graduação de **Sistemas de Informação** 👨‍💻
+Atualmente, estou no 4º ano da Graduação de **Sistemas de Informação** 👨‍💻
 
 Eu gosto de desenvolvimento e criação principalmente para Web, mas em geral apoixado em Front-end e UI/UX.
 
